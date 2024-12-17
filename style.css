@@ -39,7 +39,7 @@ text-align: center;
     justify-content: center;
     align-items: center;
     height: auto;
-    background-image: url(/back.png);
+    background-image: url(./back.png);
     border-bottom:black solid;
     border-top:black solid;
 }
